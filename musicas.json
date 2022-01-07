@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "61c0bdf801542b0fa3868498"
+  },
+  "titulo": "Forever",
+  "artista": "Kiss",
+  "album": "Hot in the Shade",
+  "genero": "Rock",
+  "anoLancamento": 1989,
+  "compositor": "Paul Stanley",
+  "_class": "br.com.tech4me.tech4music.model.Musica"
+},{
+  "_id": {
+    "$oid": "61c0c022a304c40334c19a65"
+  },
+  "titulo": "Algo parecido",
+  "artista": "Skank",
+  "album": "Os três primeiros",
+  "genero": "Pop",
+  "anoLancamento": 2018,
+  "compositor": "Samuel Rosa",
+  "_class": "br.com.tech4me.tech4music.model.Musica"
+},{
+  "_id": {
+    "$oid": "61c0c1cea304c40334c19a66"
+  },
+  "titulo": "O que me importa",
+  "artista": "Marisa Monte",
+  "album": "Memórias, crônicas e declarações de amor",
+  "genero": "MPB",
+  "anoLancamento": 2000,
+  "compositor": "Jose de Ribamar Cury",
+  "_class": "br.com.tech4me.tech4music.model.Musica"
+}]
